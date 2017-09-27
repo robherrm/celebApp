@@ -1,0 +1,19 @@
+{
+  "name": "celeb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "celebServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robherrm/celebApp.git"
+  },
+  "author": "rob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robherrm/celebApp/issues"
+  },
+  "homepage": "https://github.com/robherrm/celebApp#readme"
+}
